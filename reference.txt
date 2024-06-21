@@ -16,3 +16,6 @@ volo==>https://github.com/sail-sg/volo/tree/main
 cat==>https://github.com/linhezheng19/CAT/blob/main/src/cat.py
 denseapp==>https://github.com/DeepMotionAIResearch/DenseASPP/blob/master/models/DenseASPP.py
 drn==>https://github.com/fyu/drn/blob/master/drn.py
+repvit==>https://github.com/THU-MIG/RepViT/tree/main
+fastervit==>https://github.com/NVlabs/FasterViT/tree/main/fastervit
+iformer==>inception transformer==>https://github.com/sail-sg/iFormer/tree/main
