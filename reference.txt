@@ -19,3 +19,5 @@ drn==>https://github.com/fyu/drn/blob/master/drn.py
 repvit==>https://github.com/THU-MIG/RepViT/tree/main
 fastervit==>https://github.com/NVlabs/FasterViT/tree/main/fastervit
 iformer==>inception transformer==>https://github.com/sail-sg/iFormer/tree/main
+weight initialize==>https://github.com/o-tawab/Weights-Initializer-pytorch/tree/master
+AdaptiveWeightDecayPytorch==>https://github.com/mmbejani/AdaptiveWeightDecayPytorch/tree/master
