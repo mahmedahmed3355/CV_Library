@@ -1,0 +1,18 @@
+scnet==> https://github.com/MCG-NKU/SCNet/tree/master
+coordconv==>https://github.com/mkocabas/CoordConv-pytorch/tree/master
+condconv==><https://github.com/nibuiro/CondConv-pytorch/blob/master/condconv/condconv.py
+cmt==>https://github.com/FlyEgle/CMT-pytorch/blob/master/model/Transformers/CMT/cmt.py
+DO-Conv==>https://github.com/yangyanli/DO-Conv
+HetConv==>https://github.com/sxpro/HetConvolution2d_pytorch
+SPConv==>https://github.com/qiulinzhang/SPConv.pytorch
+mdconv==>https://github.com/leaderj1001/Mixed-Depthwise-Convolutional-Kernels/blob/master/model.py
+scconv==>https://github.com/XxxxYi/Reproduction_of_ScConv_CVPR2023
+convmlp==>https://github.com/SHI-Labs/Convolutional-MLPs/blob/master/src/convmlp.py
+GCT==>https://github.com/z-x-yang/GCT/blob/master/PyTorch/GCT.py
+Local relation layer==>https://github.com/Anonymous-so/Local-Relation-Networks-for-Image-Recognition/blob/master/local_relation_layer.py
+GCN==>https://github.com/kaiyuyue/cgnl-network.pytorch/tree/master
+axialnet==>https://github.com/csrhddlam/axial-deeplab/tree/master
+volo==>https://github.com/sail-sg/volo/tree/main
+cat==>https://github.com/linhezheng19/CAT/blob/main/src/cat.py
+denseapp==>https://github.com/DeepMotionAIResearch/DenseASPP/blob/master/models/DenseASPP.py
+drn==>https://github.com/fyu/drn/blob/master/drn.py
